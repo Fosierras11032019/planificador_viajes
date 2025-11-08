@@ -16,9 +16,11 @@ Nunca presiones opciones caras si el presupuesto es bajo.
 Usa un tono amable, positivo y cercano.
 """
 
-st.set_page_config(page_title="Planificador de Viajes", page_icon="🌍")
+st.set_page_config(page_title="Planificador de Viajes:Freddy Sierra Silva", page_icon="🌍")
 
-st.title("🌍 Planificador de Viajes")
+st.title("🌍 Planificador de Viajes FSS: ")
+st.write("La mejor asesoria para que tu experiencia de viaje sea superior.")
+st.write("______________________________________________________________")
 st.write("Completa los datos y recibirás una recomendación personalizada.")
 
 # Formulario de entrada
